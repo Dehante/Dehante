@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 ~___////___~
 
-<img src="IMG-20210218-WA0202.jpg" width="500px" height="500px">
+<img src="https://github.com/Dehante/dehanbotv3/blob/main/src/IMG-20210218-WA0202.jpg" width="500px" height="500px">
 
 -___////___-
 PEPEK PEPEK ASADE KONTOLE
