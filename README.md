@@ -15,5 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ~___////___~
-src='IMG-20210218-WA0202.jpg'
+
+<img src="IMG-20210218-WA0202.jpg" width="500px" height="500px">
+
+-___////___-
 PEPEK PEPEK ASADE KONTOLE
