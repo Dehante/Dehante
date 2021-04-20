@@ -44,6 +44,6 @@
   <a name=hendra759&label=VIEWS&style=flat-square&color=red" />
 
 </p> 
- | #sosial | media |
+ | #Social | Media
 
 * [`WhatsApp BOT/OWNER `](https://wa.me/6281342474954)
