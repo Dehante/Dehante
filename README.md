@@ -24,7 +24,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/Dehante"><img src="https://github-readme-stats.vercel.app/api?username=Dehante&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icode_border=true&show_icons=true" /></a>
+  <a href="https://github.com/Dehante"><img src="https://github-readme-stats.vercel.app/api?username=Dehante&bg_color=30,e96443,904e95&title_color=003300&text_color=fff&icode_border=true&show_icons=true" /></a>
 </p>
 
 <p align="center">
@@ -32,7 +32,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Dehante&theme=onedark" /></a>
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Dehante&theme=red" /></a>
 </p>
 
 <p align="center">
