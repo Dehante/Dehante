@@ -10,9 +10,7 @@
 </p>
 
 <p align="center">
-
-<a href="https://github.com/Fxc7"><img title="Author" src="https://img.shields.io/badge/AUTHOR-FARHAN-orange?style=for-the-badge&logo=github"></a>
-
+<a href="https://github.com/Dehante"><img title="Owner" src="https://img.shields.io/badge/Owner-Dehanjing-black?style=for-the-badge&logo=github"></a>
 </p>
 <p align="center">
 <a href="https://github.com/Dehante/dhnbasicv1/followers"><img title="Followers" src="https://img.shields.io/github/followers/Dehante?style=flat-square"></a>
