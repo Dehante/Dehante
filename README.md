@@ -43,8 +43,6 @@
   <a href="https://youtube.com/channel/UCQ5vr4WbsabL5JMZV73mKWg"><img src="https://img.shields.io/badge/YouTube-ンテ Dehanjing-ff0000?style=for-the-badge&logo=youtube&logoColor=ff0000&link=https://youtube.com/channel/UCQ5vr4WbsabL5JMZV73mKWg" /></a>
   <a name=hendra759&label=VIEWS&style=flat-square&color=red" />
 
-</p>
+
  [#SocialMedia](https://github.com/Dehante)
-
-
 * [`WhatsApp BOT/OWNER `](https://wa.me/6281342474954)
