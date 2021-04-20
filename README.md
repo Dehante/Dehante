@@ -45,8 +45,7 @@
 
 </p>
  | Social | Media |
-</p>
- [| Social Media |](https://github.com/Dehante/Dehante)
+ | Social Media |
 
 
 * [`WhatsApp BOT/OWNER `](https://wa.me/6281342474954)
