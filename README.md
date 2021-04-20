@@ -44,8 +44,7 @@
   <a name=hendra759&label=VIEWS&style=flat-square&color=red" />
 
 </p>
- | Social | Media
- | Social Media |
+ [#SocialMedia](https://github.com/Dehante)
 
 
 * [`WhatsApp BOT/OWNER `](https://wa.me/6281342474954)
