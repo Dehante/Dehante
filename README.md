@@ -1,4 +1,4 @@
-<h1 &align="center">デハンテー <img src="https://github.com/Dehante/dehanbotv3/blob/main/src/IMG-20210218-WA0202.jpg" width="40px" alt="hi"><br>[ **Dehanjing** ]!</h1>
+<h1 &align="center">デハンテー <img src="https://github.com/Dehante/dehanbotv3/blob/main/src/IMG-20210218-WA0202.jpg" width="40px" alt="hi"><br> Dehanjing ン</h1>
 
 <p align="center">
 <img src="https://avatars.githubusercontent.com/u/79034558?s=60&v=4" width="100%" alt="API Giphy logo"/>
@@ -9,7 +9,7 @@
 - 👀 I m currently focusing on **JavaScript**.
 
 <p align="center">
-  <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript" />
+  <img src="https://img.shields.io/badge/-JavaScript-red?style=flat-square&logo=javascript" />
   <img src="https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=Node.js" />
   <img src="https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5&logoColor=e34f26" />
   <img src="https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3&logoColor=1572b6" />
@@ -20,7 +20,7 @@
   <img src="https://img.shields.io/badge/-Redux-black?style=flat-square&logo=redux" />
   <img src="https://img.shields.io/badge/-Windows-black?style=flat-square&logo=windows" />
   <img src="https://img.shields.io/badge/-VS_Code-black?style=flat-square&logo=visual-studio-code" />
-  <img src="https://img.shields.io/badge/-SQLite3-black?style=flat-square&logo=sqlite" />
+  <img src="https://img.shields.io/badge/-SQLite3-red?style=flat-square&logo=sqlite" />
 </p>
 
 <p align="center">
