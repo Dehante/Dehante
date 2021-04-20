@@ -44,7 +44,7 @@
   <a name=hendra759&label=VIEWS&style=flat-square&color=red" />
 
 </p>
- | Social | Media |
+ | Social | Media
  | Social Media |
 
 
