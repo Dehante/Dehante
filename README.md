@@ -1,4 +1,4 @@
-<h1 align="center">デハンテー <img src="https://github.com/Dehante/dehanbotv3/blob/main/src/IMG-20210218-WA0202.jpg" width="40px" alt="hi"><br>Dehanjing!</h1>
+<h1 align="center">デハンテー <img src="https://github.com/Dehante/dehanbotv3/blob/main/src/IMG-20210218-WA0202.jpg" width="40px" color=0000ff&alt="hi"><br>Dehanjing!</h1>
 
 <p align="center">
 <img src="https://avatars.githubusercontent.com/u/79034558?s=60&v=4" width="100%" alt="API Giphy logo"/>
