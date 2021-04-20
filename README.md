@@ -28,7 +28,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/ItsmeikyXSec4O4"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Dehante&bg_color=30,e96443,904e95&title_color=fff&text_color=ff0000&hide_border=true&show_icons=true&layout=compact" /></a>
+  <a href="https://github.com/ItsmeikyXSec4O4"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Dehante&bg_color=30,e96443,904e95&title_color=fff&text_color=003300&hide_border=true&show_icons=true&layout=compact" /></a>
 </p>
 
 <p align="center">
