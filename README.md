@@ -44,5 +44,5 @@
   <a name=hendra759&label=VIEWS&style=flat-square&color=red" />
 
 
- [#SocialMedia](https://github.com/Dehante)
+ [#Social Media](https://github.com/Dehante) <img src="https://github.com/Dehante/dehanbotv3/blob/main/src/IMG-20210218-WA0202.jpg" width="40px">
 * [`WhatsApp BOT/OWNER `](https://wa.me/6281342474954)
