@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-<a href="https://github.com/Dehante"><img title="Owner" src="https://img.shields.io/badge/Owner-Dehanjing-black?style=for-the-badge&logo=windows"></a>
+<a href="https://github.com/Dehante"><img title="Owner" src="https://img.shields.io/badge/Owner-Dehanjing-red?style=for-the-badge&logo=windows"></a>
 </p>
 <p align="center">
 <a href="https://github.com/Dehante/dhnbasicv1/followers"><img title="Followers" src="https://img.shields.io/github/followers/Dehante?style=flat-square"></a>
@@ -30,7 +30,7 @@
   <img src="https://img.shields.io/badge/-Redux-black?style=flat-square&logo=redux" />
   <img src="https://img.shields.io/badge/-Windows-black?style=flat-square&logo=windows" />
   <img src="https://img.shields.io/badge/-VS_Code-black?style=flat-square&logo=visual-studio-code" />
-  <img src="https://img.shields.io/badge/-SQLite3-white?style=flat-square&logo=sqlite" />
+  <img src="https://img.shields.io/badge/-SQLite3-red?style=flat-square&logo=sqlite" />
 </p>
 
 <p align="center">
