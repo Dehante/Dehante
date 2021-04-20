@@ -41,7 +41,7 @@
 
 <p align="center">
   <a href="https://youtube.com/channel/UCQ5vr4WbsabL5JMZV73mKWg"><img src="https://img.shields.io/badge/YouTube-ンテ Dehanjing-ff0000?style=for-the-badge&logo=youtube&logoColor=ff0000&link=https://youtube.com/channel/UCQ5vr4WbsabL5JMZV73mKWg" /></a>
-  <a name=hendra759&label=VIEWS&style=flat-square&color=red" />
+  <a name=hendra759&label=VIEWS&style=flat-square&color=red" /><img src="https://github.com/Dehante/dehanbotv3/blob/main/src/IMG-20210218-WA0202.jpg" width="40px">
 
 
  [#Social Media](https://github.com/Dehante) <img src="https://github.com/Dehante/dehanbotv3/blob/main/src/IMG-20210218-WA0202.jpg" width="40px">
