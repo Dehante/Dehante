@@ -1,4 +1,4 @@
-<h1 color=0000ff&align="center">デハンテー <img src="https://github.com/Dehante/dehanbotv3/blob/main/src/IMG-20210218-WA0202.jpg" width="40px" color=0000ff&alt="hi"><br>Dehanjing!</h1>
+<h1 &align="center">デハンテー <img src="https://github.com/Dehante/dehanbotv3/blob/main/src/IMG-20210218-WA0202.jpg" width="40px" alt="hi"><br>[ **Dehanjing** ]!</h1>
 
 <p align="center">
 <img src="https://avatars.githubusercontent.com/u/79034558?s=60&v=4" width="100%" alt="API Giphy logo"/>
@@ -28,7 +28,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/ItsmeikyXSec4O4"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Dehante&bg_color=30,e96443,904e95&title_color=fff&text_color=003300&hide_border=true&show_icons=true&layout=compact" /></a>
+  <a href="https://github.com/Dehante"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Dehante&bg_color=30,e96443,904e95&title_color=fff&text_color=003300&hide_border=true&show_icons=true&layout=compact" /></a>
 </p>
 
 <p align="center">
